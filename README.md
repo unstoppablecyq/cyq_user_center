@@ -2,51 +2,19 @@
 
 ## 简介
 
-Install `node_modules`:
+基于 Spring Boot + React 的简易用户管理系统，仅实现了用户注册、登录、查询管理等功能，可以当作模板适用于其他项目。
+
+## files
+
+前端文件夹：
 
 ```bash
-npm install
+center-project-front-end
 ```
 
-or
+后端文件夹
 
 ```bash
-yarn
-```
-
-## Scripts
-
-provides some useful script to help you quick start and build with web project, code style check and test.
-
-Scripts provided in `package.json`. It's safe to modify or add additional script:
-
-### Start
-
-```bash
-npm start
-```
-
-### Build
-
-```bash
-npm run build
-```
-
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test
-
-```bash
-npm test
+center-project-back-end
 ```
 
