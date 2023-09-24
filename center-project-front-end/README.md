@@ -1,50 +1,20 @@
 # CYQ用户中心前端
 
-## 环境
+这里也不知道写些什么了，就放一点使用方式吧，实际上package.json里面各种方式都在生成Ant Design Pro的时候有自带了，放几个常用的吧
 
-Install `node_modules`:
-
-```bash
-npm install
-```
-
-or
-
-```bash
-yarn
-```
-
-## Scripts
-
-provides some useful script to help you quick start and build with web project, code style check and test.
-
-Scripts provided in `package.json`. It's safe to modify or add additional script:
-
-### Start
+### 本地
 
 ```bash
 npm start
 ```
 
-### Build
+### 打包
 
 ```bash
 npm run build
 ```
 
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test
+### 测试
 
 ```bash
 npm test
